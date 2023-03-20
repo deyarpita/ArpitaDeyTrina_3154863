@@ -1,0 +1,3 @@
+# ArpitaDeyTrina_3154863
+
+This code is for a number guessing game. Where a random number will be generated between 1 to 100, to do that I have used a random function. Then, the user has to guess the number by inputting a number between 1 to 100. if the user guessed a wrong number then a sound will be paid and it will also give feedback to the user if the guessed number is too high or too low. For the correct guessing as well the user will get feedback the guessed number is correct and a sound will be played and the game will be continued.  The user can quit the game at any moment by pressing the 0 key otherwise the game will continue for a never-ending period.
